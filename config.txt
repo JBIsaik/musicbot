@@ -13,7 +13,7 @@
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token=NDU3ODE2OTMwMjQyMjY1MTAw.Dge0kw.l9CGYh0o6ajZ6YzJby9bp_bcvQs
+token=NDc5OTI0NDA4NTA5NjYxMTk2.DmA3jQ.rvn7NwdAwI8BWegSmbDCv6mNDmA
 
 
 
@@ -21,7 +21,7 @@ token=NDU3ODE2OTMwMjQyMjY1MTAw.Dge0kw.l9CGYh0o6ajZ6YzJby9bp_bcvQs
 // This needs to be the owner's ID (a 17-18 digit number)
 // https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
 
-owner=353896048231448577
+owner=385210898694012938
 
 
 // This sets the prefix for the bot
@@ -30,7 +30,7 @@ owner=353896048231448577
 // If you do not set this, the prefix will be a mention of the bot (@Botname play)
 // If you make this blank, the bot will not use a prefix
 
-prefix=-
+prefix=--
 
 
 /////////////////////////////////////////////////////////////
@@ -46,7 +46,7 @@ prefix=-
 // where X is the title. If you don't include an action, it will use the
 // default of 'Playing'
 //
-//game=Listening to Example game!
+game=Listening to FreeGen | --help
 
 
 // If you set this, it will modify the default status of bot
@@ -70,11 +70,11 @@ prefix=-
 
 // If you set these, it will change the success, warning, and error emojis
 //
-//success=🎶
-//warning=💡
-//error=🚫
-//loading=⌚
-//searching=🔎
+success=🎶
+warning=💡
+error=🚫
+loading=⌚
+searching=🔎
 
 
 // If you set this, you change the word used to view the help.
